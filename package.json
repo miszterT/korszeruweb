@@ -1,0 +1,23 @@
+{
+  "name": "kata-bootstrap-mocha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tuzsaai/korszeruweb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://github.com/tuzsaai/korszeruweb",
+  "dependencies": {
+    "chai": "*",
+    "mocha": "*"
+  }
+}
